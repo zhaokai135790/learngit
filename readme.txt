@@ -5,3 +5,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 add merger
 issue-101
+add /usr/bin/env
